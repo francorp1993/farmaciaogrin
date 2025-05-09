@@ -15,6 +15,7 @@
             <ul class="items-nav">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="./contacto.php">Contacto</a></li>
+                <li><a href="./tienda.php">Tienda</a></li>
             </ul>
         </nav>
     </header>

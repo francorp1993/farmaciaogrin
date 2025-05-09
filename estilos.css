@@ -142,3 +142,65 @@ color: #0a9396;
     padding: 2rem;
     text-align: center;
 }
+
+.producto a{
+    text-decoration: none;
+    color: #0a9396;
+}
+
+.producto a:hover{
+    text-decoration: none;
+    color: #000000;
+}
+
+.tienda_contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.producto_descripcion{
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+align-items: center;
+
+}
+
+.img{
+max-width: 300px;
+max-height: 400px;
+}
+
+/* Contacto */
+
+.contacto_form{
+    margin: 5rem auto;
+    background-color: #0a9396;
+    padding: 2rem;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contacto_input{
+    background-color: #ffffff;
+    padding: 1rem;
+}
+
+.btn_enviar{
+    background-color: #000000;
+    color: white;
+    height: 40px;
+    font-weight: 600;
+
+}
+
+.btn_enviar:hover{
+    background-color: #f4fd97;
+    color: rgb(0, 0, 0);
+
+}
